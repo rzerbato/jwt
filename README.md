@@ -1,3 +1,3 @@
 ## Prueba JWT
 
-Ejemplo de login
+Ejemplo simple de uso de JWT
